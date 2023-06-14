@@ -37,5 +37,61 @@ namespace DioASPNetMVC.Controllers
             }
             return View(contato);
         }
+        public IActionResult Editar(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if (contato == null)
+                return RedirectToAction(nameof(Index));
+
+            return View(contato);
+        }
+
+        [HttpPost]
+        public IActionResult Editar(Contato contato)
+        {
+            var contatoDB = _context.Contatos.Find(contato.Id);
+
+
+            contatoDB.Nome = contato.Nome;
+            contatoDB.Telefone = contato.Telefone;
+            contatoDB.Ativo = contato.Ativo;
+
+            _context.Contatos.Update(contatoDB);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Detalhes(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if (contato == null)
+                return RedirectToAction(nameof(Index));
+
+            return View(contato);
+        }
+
+        public IActionResult Deletar(int id)
+        {
+            var contato = _context.Contatos.Find(id);
+
+            if (contato == null)
+                return RedirectToAction(nameof(Index));
+
+            return View(contato);
+        }
+
+        [HttpPost]
+        public IActionResult Deletar(Contato contato)
+        {
+            var contatoDB = _context.Contatos.Find(contato.Id);
+
+            _context.Contatos.Remove(contatoDB);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

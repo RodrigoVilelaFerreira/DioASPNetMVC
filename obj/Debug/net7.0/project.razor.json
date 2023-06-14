@@ -18650,6 +18650,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\rodrigo-ferreira\\Documents\\Code\\Personal\\Dio\\DotNet\\DioASPNetMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\rodrigo-ferreira\\Documents\\Code\\Personal\\Dio\\DotNet\\DioASPNetMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -18687,6 +18692,16 @@
     {
       "FilePath": "c:\\Users\\rodrigo-ferreira\\Documents\\Code\\Personal\\Dio\\DotNet\\DioASPNetMVC\\Views\\Contato\\Criar.cshtml",
       "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rodrigo-ferreira\\Documents\\Code\\Personal\\Dio\\DotNet\\DioASPNetMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rodrigo-ferreira\\Documents\\Code\\Personal\\Dio\\DotNet\\DioASPNetMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
       "FileKind": "mvc"
     }
   ],
