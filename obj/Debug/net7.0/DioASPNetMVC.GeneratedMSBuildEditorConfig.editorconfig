@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DioASPNetMVC
 build_property.RootNamespace = DioASPNetMVC
-build_property.ProjectDir = C:\Users\rodrigo-ferreira\Documents\Code\Personal\Dio\DotNet\DioASPNetMVC\
+build_property.ProjectDir = c:\Users\rodrigo-ferreira\Documents\Code\Personal\Dio\DotNet\DioASPNetMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\rodrigo-ferreira\Documents\Code\Personal\Dio\DotNet\DioASPNetMVC
+build_property.MSBuildProjectDirectory = c:\Users\rodrigo-ferreira\Documents\Code\Personal\Dio\DotNet\DioASPNetMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Criar.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Criar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDcmlhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Deletar.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Deletar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xEZWxldGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Detalhes.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xEZXRhbGhlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Editar.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xFZGl0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Index.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Contato/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Home/Index.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Home/Privacy.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/Error.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/_ViewImports.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/_ViewStart.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/rodrigo-ferreira/Documents/Code/Personal/Dio/DotNet/DioASPNetMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-awqcdcj4p8
